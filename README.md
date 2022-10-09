@@ -1,8 +1,6 @@
 # E-Commerce-Back-End
 
-
 ![License Badge](https://img.shields.io/badge/license-MIT-pink)
-
 
 ## Description
 The E-Commerce-Back-End application takes a working Express.js API and configures it to use Sequelize to interact with a MySQL database.
